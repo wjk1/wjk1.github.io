@@ -1,0 +1,24 @@
+body {
+  font-family: 'lanto' , Shrikhand;
+
+}
+
+#after_submit {
+
+visibility: hidden;
+
+}
+#quiz {
+
+margin-left: 10px;
+background: #4d4dff;
+padding:10px 20px 10px 20px;
+width: 400px;
+border-radius: 20px;
+float: left.
+}
+
+input{
+margin-bottom: 20px;
+
+}
